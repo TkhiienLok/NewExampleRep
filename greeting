@@ -1,0 +1,5 @@
+def say_hi(name = "Bob"):
+    print('Hello', name)
+
+
+print(say_hi())
